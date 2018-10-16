@@ -4,7 +4,7 @@
 
 @section('metaDescription')
 	<meta name="description" content="Simple pricing, No Hidden costs, No transaction based fees."/>
-	<link rel="canonical" href="http://outgrow.co/pricing.html" />
+	<link rel="canonical" href="https://outgrow.co/pricing.html" />
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Pricing | Outgrow" />

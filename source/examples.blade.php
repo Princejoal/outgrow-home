@@ -4,7 +4,7 @@
 
 @section('metaDescription')
 	<meta name="description" content="Services, SAAS, Education, Healthcare, Construction, Travel & Hospitality, Finance, Manufacturing, Publishing. There is a Calculator for that!"/>
-	<link rel="canonical" href="http://outgrow.co/examples.html" />
+	<link rel="canonical" href="https://outgrow.co/examples.html" />
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Examples | Outgrow" />

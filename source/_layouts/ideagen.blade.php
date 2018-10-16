@@ -10,7 +10,7 @@
 
 	@yield('metaDescription')
 
-	<link rel="canonical" href="http://outgrow.co/" />
+	<link rel="canonical" href="https://outgrow.co/" />
 	<link href='https://www.filepicker.io/api/file/Ay8X8PhXTdaClFdhsLeR' rel='shortcut icon'>
 
 	@yield('css')

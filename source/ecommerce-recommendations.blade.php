@@ -4,7 +4,7 @@
 
 @section('metaDescription')
 	<meta name="description" content="Provide a unique shopping experiences to your online store visitors and increase sales with interactive product recommendations."/>
-	<link rel="canonical" href="http://outgrow.co/" />
+	<link rel="canonical" href="https://outgrow.co/" />
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Increase Ecommerce Sales with Product Recommendations | Outgrow" />

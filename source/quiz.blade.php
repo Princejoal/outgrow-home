@@ -4,7 +4,7 @@
 
 @section('metaDescription')
 	<meta name="description" content="Generate more leads and traffic with Outgrow’s interactive quiz builder. Create your first interactive quiz. Start your free trial."/>
-	<link rel="canonical" href="http://outgrow.co/" />
+	<link rel="canonical" href="https://outgrow.co/" />
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Interactive Calculators | Outgrow" />
@@ -855,7 +855,7 @@
                 {
                     "id": "type-car",
                     "Name": "Which type of car is best suited to my use case?",
-                    "Published Link": "http://premade.outgrow.us/what-car-should-you-go-for",
+                    "Published Link": "https://premade.outgrow.us/what-car-should-you-go-for",
                     "GIF": "https://dzvexx2x036l1.cloudfront.net/calc_images/what+kind+of+car+should+you+buy.gif",
                     "Type": "Outcome Quiz",
                     "Layout": "Chicago",

@@ -4,7 +4,7 @@
 
 @section('metaDescription')
 	<meta name="description" content="Generate more leads and revenue with Outgrow’s interactive calculators. Build your first business calculator. Start your free trial."/>
-	<link rel="canonical" href="http://outgrow.co/" />
+	<link rel="canonical" href="https://outgrow.co/" />
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Interactive Calculators | Outgrow" />

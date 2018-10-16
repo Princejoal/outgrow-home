@@ -4,7 +4,7 @@
 
 @section('metaDescription')
 	<meta name="description" content="Privacy Policy, If you create or take a calculator or interactive experience on the Outgrow site, you are fully responsible for all activities that occur under the account."/>
-	<link rel="canonical" href="http://outgrow.co/privacy_policy.html" />
+	<link rel="canonical" href="https://outgrow.co/privacy_policy.html" />
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Privacy Policy | Outgrow" />

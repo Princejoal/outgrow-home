@@ -4,7 +4,7 @@
 
 @section('metaDescription')
 	<meta name="description" content="Terms Of Services, Outgrow has the right to limit, suspend, or stop providing the Services to you if you fail to comply with these Terms."/>
-	<link rel="canonical" href="http://outgrow.co/tos.html" />
+	<link rel="canonical" href="https://outgrow.co/tos.html" />
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Terms Of Services | Outgrow" />

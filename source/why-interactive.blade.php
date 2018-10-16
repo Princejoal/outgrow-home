@@ -4,7 +4,7 @@
 
 @section('metaDescription')
 	<meta name="description" content="Because Customers want to be helped. Not Sold To."/>
-	<link rel="canonical" href="http://outgrow.co/why_calculators.html" />
+	<link rel="canonical" href="https://outgrow.co/why_calculators.html" />
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Why Calculators? | Outgrow" />

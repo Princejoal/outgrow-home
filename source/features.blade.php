@@ -4,7 +4,7 @@
 
 @section('metaDescription')
 	<meta name="description" content="Get new customers with powerful and easy to configure interactive calculators."/>
-	<link rel="canonical" href="http://outgrow.co/features.html" />
+	<link rel="canonical" href="https://outgrow.co/features.html" />
 	<meta property="og:locale" content="en_GB" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Product Features | Outgrow" />
