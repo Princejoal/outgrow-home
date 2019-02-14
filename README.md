@@ -15,4 +15,4 @@ deployus.sh(build rely.co)
 deployps.sh(build co.in)
 
 # Run
-run using jigsaw build && jigsaw serve
+run using `jigsaw build && jigsaw serve`
